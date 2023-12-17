@@ -4,6 +4,6 @@
 # Installing and Starting
 NOTE: you have to be in the sudoers in order for this to work
 ```console
-> sudo ./setup.sh
-password: ****** # enter your password
+chmod +x ./setup.sh
+sudo ./setup.sh
 ```
